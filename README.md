@@ -125,9 +125,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 pip install ultralytics opencv-python
 
- #Author
+ # Author
 
-**Kulani Maphosa**
-**GitHub**: decodb
-**LinkedIn**: Kulani Maphosa
-**Email**: kulanimaphosa@gmail.com
+Kulani Maphosa
+GitHub: decodb
+LinkedIn: Kulani Maphosa
+Email: kulanimaphosa@gmail.com
